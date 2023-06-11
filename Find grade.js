@@ -1,4 +1,4 @@
-const mark=prompt('enter your mark :' );
+const mark=prompt('enter your mark :' );//getting input prompt method
 if(mark>90 && mark<=100)
 {
   console.log(mark, 'A grade');
